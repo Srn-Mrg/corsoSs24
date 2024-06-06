@@ -4,3 +4,5 @@
 * Risotto ai Funghi
 * Pennette alla Carbonara
 * Minestrone di Verdure
+* Salmone al Cartoccio
+

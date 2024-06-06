@@ -8,3 +8,5 @@ Questo piatto mi da problemi al retrotreno
 * Aglio
 * Olio Evo qb
 * Peperoncino
+* Prezzemolo
+* Sale qb

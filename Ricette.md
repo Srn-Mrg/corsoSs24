@@ -2,3 +2,4 @@
 
 * Spaghetti Aglio, Olio e Peperoncino
 * Risotto ai Funghi
+* Pennette alla Carbonara

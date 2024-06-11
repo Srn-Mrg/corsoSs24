@@ -7,6 +7,10 @@
 
 ### Secondi
 * Salmone al Cartoccio
+* Bistecca ai ferri
 
 ### Zuppe
 * Minestrone di Verdure
+
+### Contorni
+* Verdure grigliate

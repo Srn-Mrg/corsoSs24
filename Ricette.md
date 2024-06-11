@@ -1,8 +1,12 @@
 # Le ricette di Viola Melanzana
 
+### Primi
 * Spaghetti Aglio, Olio e Peperoncino
 * Risotto ai Funghi
 * Pennette alla Carbonara
-* Minestrone di Verdure
+
+### Secondi
 * Salmone al Cartoccio
 
+### Zuppe
+* Minestrone di Verdure

@@ -7,6 +7,10 @@
 
 ### Secondi
 * Salmone al Cartoccio
+* Polpette al sugo Ikea
 
 ### Zuppe
 * Minestrone di Verdure
+
+### Contorni
+* Patate al forno

@@ -1,0 +1,4 @@
+# File e cartelle da ignorare
+
+idee/*.txt
+!idee/istruzioni.md
